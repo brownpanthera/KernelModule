@@ -1,0 +1,1 @@
+savedcmd_/media/ali/things/personalProjects/fkernelModule/modules.order := {   echo /media/ali/things/personalProjects/fkernelModule/hello_proc.o; :; } > /media/ali/things/personalProjects/fkernelModule/modules.order

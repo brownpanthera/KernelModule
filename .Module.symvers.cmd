@@ -1,0 +1,1 @@
+savedcmd_/media/ali/things/personalProjects/fkernelModule/Module.symvers :=  scripts/mod/modpost -m -a      -o /media/ali/things/personalProjects/fkernelModule/Module.symvers -T /media/ali/things/personalProjects/fkernelModule/modules.order -i Module.symvers -e 

@@ -1,0 +1,1 @@
+savedcmd_/media/ali/things/personalProjects/fkernelModule/hello_proc.mod := printf '%s\n'   hello_proc.o | awk '!x[$$0]++ { print("/media/ali/things/personalProjects/fkernelModule/"$$0) }' > /media/ali/things/personalProjects/fkernelModule/hello_proc.mod
